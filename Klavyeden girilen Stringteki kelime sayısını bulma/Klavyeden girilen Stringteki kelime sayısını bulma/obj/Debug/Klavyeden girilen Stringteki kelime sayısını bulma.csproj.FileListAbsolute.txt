@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Klavyeden girilen Stringteki kelime sayısını bulma\Klavyeden girilen Stringteki kelime sayısını bulma\obj\Debug\Klavyeden girilen Stringteki kelime sayısını bulma.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Klavyeden girilen Stringteki kelime sayısını bulma\Klavyeden girilen Stringteki kelime sayısını bulma\obj\Debug\Klavyeden girilen Stringteki kelime sayısını bulma.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Klavyeden girilen Stringteki kelime sayısını bulma\Klavyeden girilen Stringteki kelime sayısını bulma\bin\Debug\Klavyeden girilen Stringteki kelime sayısını bulma.exe.config
+C:\Users\yusuf\source\repos\Klavyeden girilen Stringteki kelime sayısını bulma\Klavyeden girilen Stringteki kelime sayısını bulma\bin\Debug\Klavyeden girilen Stringteki kelime sayısını bulma.exe
+C:\Users\yusuf\source\repos\Klavyeden girilen Stringteki kelime sayısını bulma\Klavyeden girilen Stringteki kelime sayısını bulma\bin\Debug\Klavyeden girilen Stringteki kelime sayısını bulma.pdb
+C:\Users\yusuf\source\repos\Klavyeden girilen Stringteki kelime sayısını bulma\Klavyeden girilen Stringteki kelime sayısını bulma\obj\Debug\Klavyeden girilen Stringteki kelime sayısını bulma.exe
+C:\Users\yusuf\source\repos\Klavyeden girilen Stringteki kelime sayısını bulma\Klavyeden girilen Stringteki kelime sayısını bulma\obj\Debug\Klavyeden girilen Stringteki kelime sayısını bulma.pdb

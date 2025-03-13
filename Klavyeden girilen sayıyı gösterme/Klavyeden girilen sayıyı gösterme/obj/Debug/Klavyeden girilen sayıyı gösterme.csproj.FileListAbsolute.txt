@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Klavyeden girilen sayıyı gösterme\Klavyeden girilen sayıyı gösterme\bin\Debug\Klavyeden girilen sayıyı gösterme.exe.config
+C:\Users\yusuf\source\repos\Klavyeden girilen sayıyı gösterme\Klavyeden girilen sayıyı gösterme\bin\Debug\Klavyeden girilen sayıyı gösterme.exe
+C:\Users\yusuf\source\repos\Klavyeden girilen sayıyı gösterme\Klavyeden girilen sayıyı gösterme\bin\Debug\Klavyeden girilen sayıyı gösterme.pdb
+C:\Users\yusuf\source\repos\Klavyeden girilen sayıyı gösterme\Klavyeden girilen sayıyı gösterme\obj\Debug\Klavyeden girilen sayıyı gösterme.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Klavyeden girilen sayıyı gösterme\Klavyeden girilen sayıyı gösterme\obj\Debug\Klavyeden girilen sayıyı gösterme.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Klavyeden girilen sayıyı gösterme\Klavyeden girilen sayıyı gösterme\obj\Debug\Klavyeden girilen sayıyı gösterme.exe
+C:\Users\yusuf\source\repos\Klavyeden girilen sayıyı gösterme\Klavyeden girilen sayıyı gösterme\obj\Debug\Klavyeden girilen sayıyı gösterme.pdb

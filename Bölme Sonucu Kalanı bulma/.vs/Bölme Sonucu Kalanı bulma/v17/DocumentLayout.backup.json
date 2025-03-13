@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\B\u00F6lme Sonucu Kalan\u0131 bulma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0803110-92B0-428B-B8A7-5EFDA7CA7560}|B\u00F6lme Sonucu Kalan\u0131 bulma\\B\u00F6lme Sonucu Kalan\u0131 bulma.csproj|c:\\users\\yusuf\\source\\repos\\b\u00F6lme sonucu kalan\u0131 bulma\\b\u00F6lme sonucu kalan\u0131 bulma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0803110-92B0-428B-B8A7-5EFDA7CA7560}|B\u00F6lme Sonucu Kalan\u0131 bulma\\B\u00F6lme Sonucu Kalan\u0131 bulma.csproj|solutionrelative:b\u00F6lme sonucu kalan\u0131 bulma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\B\u00F6lme Sonucu Kalan\u0131 bulma\\B\u00F6lme Sonucu Kalan\u0131 bulma\\Program.cs",
+              "RelativeDocumentMoniker": "B\u00F6lme Sonucu Kalan\u0131 bulma\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\B\u00F6lme Sonucu Kalan\u0131 bulma\\B\u00F6lme Sonucu Kalan\u0131 bulma\\Program.cs*",
+              "RelativeToolTip": "B\u00F6lme Sonucu Kalan\u0131 bulma\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:47:18.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

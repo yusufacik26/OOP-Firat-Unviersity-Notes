@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Bölme Sonucu Kalanı bulma\Bölme Sonucu Kalanı bulma\bin\Debug\Bölme Sonucu Kalanı bulma.exe.config
+C:\Users\yusuf\source\repos\Bölme Sonucu Kalanı bulma\Bölme Sonucu Kalanı bulma\bin\Debug\Bölme Sonucu Kalanı bulma.exe
+C:\Users\yusuf\source\repos\Bölme Sonucu Kalanı bulma\Bölme Sonucu Kalanı bulma\bin\Debug\Bölme Sonucu Kalanı bulma.pdb
+C:\Users\yusuf\source\repos\Bölme Sonucu Kalanı bulma\Bölme Sonucu Kalanı bulma\obj\Debug\Bölme Sonucu Kalanı bulma.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Bölme Sonucu Kalanı bulma\Bölme Sonucu Kalanı bulma\obj\Debug\Bölme Sonucu Kalanı bulma.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Bölme Sonucu Kalanı bulma\Bölme Sonucu Kalanı bulma\obj\Debug\Bölme Sonucu Kalanı bulma.exe
+C:\Users\yusuf\source\repos\Bölme Sonucu Kalanı bulma\Bölme Sonucu Kalanı bulma\obj\Debug\Bölme Sonucu Kalanı bulma.pdb

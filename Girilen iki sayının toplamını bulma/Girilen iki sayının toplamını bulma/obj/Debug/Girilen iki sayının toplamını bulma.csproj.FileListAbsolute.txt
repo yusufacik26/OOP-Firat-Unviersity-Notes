@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Girilen iki sayının toplamını bulma\Girilen iki sayının toplamını bulma\bin\Debug\Girilen iki sayının toplamını bulma.exe.config
+C:\Users\yusuf\source\repos\Girilen iki sayının toplamını bulma\Girilen iki sayının toplamını bulma\bin\Debug\Girilen iki sayının toplamını bulma.exe
+C:\Users\yusuf\source\repos\Girilen iki sayının toplamını bulma\Girilen iki sayının toplamını bulma\bin\Debug\Girilen iki sayının toplamını bulma.pdb
+C:\Users\yusuf\source\repos\Girilen iki sayının toplamını bulma\Girilen iki sayının toplamını bulma\obj\Debug\Girilen iki sayının toplamını bulma.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Girilen iki sayının toplamını bulma\Girilen iki sayının toplamını bulma\obj\Debug\Girilen iki sayının toplamını bulma.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Girilen iki sayının toplamını bulma\Girilen iki sayının toplamını bulma\obj\Debug\Girilen iki sayının toplamını bulma.exe
+C:\Users\yusuf\source\repos\Girilen iki sayının toplamını bulma\Girilen iki sayının toplamını bulma\obj\Debug\Girilen iki sayının toplamını bulma.pdb

@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Diziler ve Metodları\Diziler ve Metodları\obj\Debug\Diziler ve Metodları.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Diziler ve Metodları\Diziler ve Metodları\obj\Debug\Diziler ve Metodları.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Diziler ve Metodları\Diziler ve Metodları\bin\Debug\Diziler ve Metodları.exe.config
+C:\Users\yusuf\source\repos\Diziler ve Metodları\Diziler ve Metodları\bin\Debug\Diziler ve Metodları.exe
+C:\Users\yusuf\source\repos\Diziler ve Metodları\Diziler ve Metodları\bin\Debug\Diziler ve Metodları.pdb
+C:\Users\yusuf\source\repos\Diziler ve Metodları\Diziler ve Metodları\obj\Debug\Diziler ve Metodları.exe
+C:\Users\yusuf\source\repos\Diziler ve Metodları\Diziler ve Metodları\obj\Debug\Diziler ve Metodları.pdb

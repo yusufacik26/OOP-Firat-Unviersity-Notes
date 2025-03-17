@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Dosya İşlemleri\Dosya İşlemleri\obj\Debug\Dosya İşlemleri.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Dosya İşlemleri\Dosya İşlemleri\obj\Debug\Dosya İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Dosya İşlemleri\Dosya İşlemleri\bin\Debug\Dosya İşlemleri.exe.config
+C:\Users\yusuf\source\repos\Dosya İşlemleri\Dosya İşlemleri\bin\Debug\Dosya İşlemleri.exe
+C:\Users\yusuf\source\repos\Dosya İşlemleri\Dosya İşlemleri\bin\Debug\Dosya İşlemleri.pdb
+C:\Users\yusuf\source\repos\Dosya İşlemleri\Dosya İşlemleri\obj\Debug\Dosya İşlemleri.exe
+C:\Users\yusuf\source\repos\Dosya İşlemleri\Dosya İşlemleri\obj\Debug\Dosya İşlemleri.pdb

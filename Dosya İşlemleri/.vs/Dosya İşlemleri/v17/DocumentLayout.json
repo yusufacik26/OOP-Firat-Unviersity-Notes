@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\Dosya \u0130\u015Flemleri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{858768F3-9885-4917-8EA5-C7B4DA6DA9E6}|Dosya \u0130\u015Flemleri\\Dosya \u0130\u015Flemleri.csproj|c:\\users\\yusuf\\source\\repos\\dosya \u0130\u015Flemleri\\dosya \u0130\u015Flemleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858768F3-9885-4917-8EA5-C7B4DA6DA9E6}|Dosya \u0130\u015Flemleri\\Dosya \u0130\u015Flemleri.csproj|solutionrelative:dosya \u0130\u015Flemleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\Dosya \u0130\u015Flemleri\\Dosya \u0130\u015Flemleri\\Program.cs",
+              "RelativeDocumentMoniker": "Dosya \u0130\u015Flemleri\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\Dosya \u0130\u015Flemleri\\Dosya \u0130\u015Flemleri\\Program.cs",
+              "RelativeToolTip": "Dosya \u0130\u015Flemleri\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T11:45:39.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

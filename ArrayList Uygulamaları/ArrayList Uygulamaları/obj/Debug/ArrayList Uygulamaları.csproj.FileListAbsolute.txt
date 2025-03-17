@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\ArrayList Uygulamaları\ArrayList Uygulamaları\bin\Debug\ArrayList Uygulamaları.exe.config
+C:\Users\yusuf\source\repos\ArrayList Uygulamaları\ArrayList Uygulamaları\bin\Debug\ArrayList Uygulamaları.exe
+C:\Users\yusuf\source\repos\ArrayList Uygulamaları\ArrayList Uygulamaları\bin\Debug\ArrayList Uygulamaları.pdb
+C:\Users\yusuf\source\repos\ArrayList Uygulamaları\ArrayList Uygulamaları\obj\Debug\ArrayList Uygulamaları.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ArrayList Uygulamaları\ArrayList Uygulamaları\obj\Debug\ArrayList Uygulamaları.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ArrayList Uygulamaları\ArrayList Uygulamaları\obj\Debug\ArrayList Uygulamaları.exe
+C:\Users\yusuf\source\repos\ArrayList Uygulamaları\ArrayList Uygulamaları\obj\Debug\ArrayList Uygulamaları.pdb

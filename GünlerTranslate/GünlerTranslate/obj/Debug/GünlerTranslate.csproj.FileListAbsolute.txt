@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\GünlerTranslate\GünlerTranslate\bin\Debug\GünlerTranslate.exe.config
+C:\Users\yusuf\source\repos\GünlerTranslate\GünlerTranslate\bin\Debug\GünlerTranslate.exe
+C:\Users\yusuf\source\repos\GünlerTranslate\GünlerTranslate\bin\Debug\GünlerTranslate.pdb
+C:\Users\yusuf\source\repos\GünlerTranslate\GünlerTranslate\obj\Debug\GünlerTranslate.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\GünlerTranslate\GünlerTranslate\obj\Debug\GünlerTranslate.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\GünlerTranslate\GünlerTranslate\obj\Debug\GünlerTranslate.exe
+C:\Users\yusuf\source\repos\GünlerTranslate\GünlerTranslate\obj\Debug\GünlerTranslate.pdb

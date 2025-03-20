@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Translate\Translate\obj\Debug\Translate.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Translate\Translate\obj\Debug\Translate.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Translate\Translate\bin\Debug\Translate.exe.config
+C:\Users\yusuf\source\repos\Translate\Translate\bin\Debug\Translate.exe
+C:\Users\yusuf\source\repos\Translate\Translate\bin\Debug\Translate.pdb
+C:\Users\yusuf\source\repos\Translate\Translate\obj\Debug\Translate.exe
+C:\Users\yusuf\source\repos\Translate\Translate\obj\Debug\Translate.pdb

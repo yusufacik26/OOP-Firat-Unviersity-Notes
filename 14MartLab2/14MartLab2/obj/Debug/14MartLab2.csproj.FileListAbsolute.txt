@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\14MartLab2\14MartLab2\obj\Debug\14MartLab2.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\14MartLab2\14MartLab2\obj\Debug\14MartLab2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\14MartLab2\14MartLab2\bin\Debug\14MartLab2.exe.config
+C:\Users\yusuf\source\repos\14MartLab2\14MartLab2\bin\Debug\14MartLab2.exe
+C:\Users\yusuf\source\repos\14MartLab2\14MartLab2\bin\Debug\14MartLab2.pdb
+C:\Users\yusuf\source\repos\14MartLab2\14MartLab2\obj\Debug\14MartLab2.exe
+C:\Users\yusuf\source\repos\14MartLab2\14MartLab2\obj\Debug\14MartLab2.pdb

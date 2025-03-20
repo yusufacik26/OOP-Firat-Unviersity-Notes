@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\bin\Debug\14MartLabDüzeltme.exe.config
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\bin\Debug\14MartLabDüzeltme.exe
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\bin\Debug\14MartLabDüzeltme.pdb
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\obj\Debug\14MartLabDüzeltme.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\obj\Debug\_14MartLabDüzeltme.Form1.resources
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\obj\Debug\_14MartLabDüzeltme.Properties.Resources.resources
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\obj\Debug\14MartLabDüzeltme.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\obj\Debug\14MartLabDüzeltme.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\obj\Debug\14MartLabDüzeltme.exe
+C:\Users\yusuf\source\repos\14MartLabDüzeltme\14MartLabDüzeltme\obj\Debug\14MartLabDüzeltme.pdb

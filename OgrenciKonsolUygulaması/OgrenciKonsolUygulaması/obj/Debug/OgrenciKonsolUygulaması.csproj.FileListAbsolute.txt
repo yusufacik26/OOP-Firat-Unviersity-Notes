@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\bin\Debug\OgrenciKonsolUygulaması.exe.config
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\bin\Debug\OgrenciKonsolUygulaması.exe
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\bin\Debug\OgrenciKonsolUygulaması.pdb
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\obj\Debug\OgrenciKonsolUygulaması.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\obj\Debug\OgrenciKonsolUygulaması.Form1.resources
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\obj\Debug\OgrenciKonsolUygulaması.Properties.Resources.resources
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\obj\Debug\OgrenciKonsolUygulaması.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\obj\Debug\OgrenciKonsolUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\obj\Debug\OgrenciKonsolUygulaması.exe
+C:\Users\yusuf\source\repos\OgrenciKonsolUygulaması\OgrenciKonsolUygulaması\obj\Debug\OgrenciKonsolUygulaması.pdb

@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\bin\Debug\Galeri_Form_Uygulaması.exe.config
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\bin\Debug\Galeri_Form_Uygulaması.exe
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\bin\Debug\Galeri_Form_Uygulaması.pdb
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\obj\Debug\Galeri_Form_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\obj\Debug\Galeri_Form_Uygulaması.Form1.resources
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\obj\Debug\Galeri_Form_Uygulaması.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\obj\Debug\Galeri_Form_Uygulaması.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\obj\Debug\Galeri_Form_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\obj\Debug\Galeri_Form_Uygulaması.exe
+C:\Users\yusuf\source\repos\Galeri_Form_Uygulaması\Galeri_Form_Uygulaması\obj\Debug\Galeri_Form_Uygulaması.pdb

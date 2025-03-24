@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\CemberClass\CemberClass\bin\Debug\CemberClass.exe.config
+C:\Users\yusuf\source\repos\CemberClass\CemberClass\bin\Debug\CemberClass.exe
+C:\Users\yusuf\source\repos\CemberClass\CemberClass\bin\Debug\CemberClass.pdb
+C:\Users\yusuf\source\repos\CemberClass\CemberClass\obj\Debug\CemberClass.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\CemberClass\CemberClass\obj\Debug\CemberClass.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\CemberClass\CemberClass\obj\Debug\CemberClass.exe
+C:\Users\yusuf\source\repos\CemberClass\CemberClass\obj\Debug\CemberClass.pdb

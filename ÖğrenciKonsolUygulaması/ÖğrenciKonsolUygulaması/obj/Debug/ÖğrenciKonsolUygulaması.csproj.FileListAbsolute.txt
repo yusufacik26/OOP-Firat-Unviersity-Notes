@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\ÖğrenciKonsolUygulaması\ÖğrenciKonsolUygulaması\obj\Debug\ÖğrenciKonsolUygulaması.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ÖğrenciKonsolUygulaması\ÖğrenciKonsolUygulaması\obj\Debug\ÖğrenciKonsolUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ÖğrenciKonsolUygulaması\ÖğrenciKonsolUygulaması\bin\Debug\ÖğrenciKonsolUygulaması.exe.config
+C:\Users\yusuf\source\repos\ÖğrenciKonsolUygulaması\ÖğrenciKonsolUygulaması\bin\Debug\ÖğrenciKonsolUygulaması.exe
+C:\Users\yusuf\source\repos\ÖğrenciKonsolUygulaması\ÖğrenciKonsolUygulaması\bin\Debug\ÖğrenciKonsolUygulaması.pdb
+C:\Users\yusuf\source\repos\ÖğrenciKonsolUygulaması\ÖğrenciKonsolUygulaması\obj\Debug\ÖğrenciKonsolUygulaması.exe
+C:\Users\yusuf\source\repos\ÖğrenciKonsolUygulaması\ÖğrenciKonsolUygulaması\obj\Debug\ÖğrenciKonsolUygulaması.pdb

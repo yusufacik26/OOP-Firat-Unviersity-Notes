@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\21martteori\21martteori\obj\Debug\21martteori.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\21martteori\21martteori\obj\Debug\_21martteori.Form1.resources
+C:\Users\yusuf\source\repos\21martteori\21martteori\obj\Debug\_21martteori.Properties.Resources.resources
+C:\Users\yusuf\source\repos\21martteori\21martteori\obj\Debug\21martteori.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\21martteori\21martteori\obj\Debug\21martteori.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\21martteori\21martteori\bin\Debug\21martteori.exe.config
+C:\Users\yusuf\source\repos\21martteori\21martteori\bin\Debug\21martteori.exe
+C:\Users\yusuf\source\repos\21martteori\21martteori\bin\Debug\21martteori.pdb
+C:\Users\yusuf\source\repos\21martteori\21martteori\obj\Debug\21martteori.exe
+C:\Users\yusuf\source\repos\21martteori\21martteori\obj\Debug\21martteori.pdb

@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\basit4işlem\basit4işlem\obj\Debug\basit4işlem.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\basit4işlem\basit4işlem\obj\Debug\basit4işlem.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\basit4işlem\basit4işlem\bin\Debug\basit4işlem.exe.config
+C:\Users\yusuf\source\repos\basit4işlem\basit4işlem\bin\Debug\basit4işlem.exe
+C:\Users\yusuf\source\repos\basit4işlem\basit4işlem\bin\Debug\basit4işlem.pdb
+C:\Users\yusuf\source\repos\basit4işlem\basit4işlem\obj\Debug\basit4işlem.exe
+C:\Users\yusuf\source\repos\basit4işlem\basit4işlem\obj\Debug\basit4işlem.pdb

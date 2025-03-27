@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\obj\Debug\noktalama işaretlerini silen bir form uygulaması.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\obj\Debug\noktalama_işaretlerini_silen_bir_form_uygulaması.Form1.resources
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\obj\Debug\noktalama_işaretlerini_silen_bir_form_uygulaması.Properties.Resources.resources
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\obj\Debug\noktalama işaretlerini silen bir form uygulaması.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\obj\Debug\noktalama işaretlerini silen bir form uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\bin\Debug\noktalama işaretlerini silen bir form uygulaması.exe.config
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\bin\Debug\noktalama işaretlerini silen bir form uygulaması.exe
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\bin\Debug\noktalama işaretlerini silen bir form uygulaması.pdb
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\obj\Debug\noktalama işaretlerini silen bir form uygulaması.exe
+C:\Users\yusuf\source\repos\noktalama işaretlerini silen bir form uygulaması\noktalama işaretlerini silen bir form uygulaması\obj\Debug\noktalama işaretlerini silen bir form uygulaması.pdb

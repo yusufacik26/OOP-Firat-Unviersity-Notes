@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\a^b konsol uygulaması\a^b konsol uygulaması\bin\Debug\a^b konsol uygulaması.exe.config
+C:\Users\yusuf\source\repos\a^b konsol uygulaması\a^b konsol uygulaması\bin\Debug\a^b konsol uygulaması.exe
+C:\Users\yusuf\source\repos\a^b konsol uygulaması\a^b konsol uygulaması\bin\Debug\a^b konsol uygulaması.pdb
+C:\Users\yusuf\source\repos\a^b konsol uygulaması\a^b konsol uygulaması\obj\Debug\a^b konsol uygulaması.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\a^b konsol uygulaması\a^b konsol uygulaması\obj\Debug\a^b konsol uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\a^b konsol uygulaması\a^b konsol uygulaması\obj\Debug\a^b konsol uygulaması.exe
+C:\Users\yusuf\source\repos\a^b konsol uygulaması\a^b konsol uygulaması\obj\Debug\a^b konsol uygulaması.pdb

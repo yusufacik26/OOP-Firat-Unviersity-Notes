@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\bin\Debug\binary to decimal.exe.config
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\bin\Debug\binary to decimal.exe
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\bin\Debug\binary to decimal.pdb
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\obj\Debug\binary to decimal.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\obj\Debug\binary_to_decimal.Form1.resources
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\obj\Debug\binary_to_decimal.Properties.Resources.resources
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\obj\Debug\binary to decimal.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\obj\Debug\binary to decimal.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\obj\Debug\binary to decimal.exe
+C:\Users\yusuf\source\repos\binary to decimal\binary to decimal\obj\Debug\binary to decimal.pdb

@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\bin\Debug\iki sayının toplamı.exe.config
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\bin\Debug\iki sayının toplamı.exe
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\bin\Debug\iki sayının toplamı.pdb
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki_sayının_toplamı.Form1.resources
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki_sayının_toplamı.Properties.Resources.resources
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.exe
+C:\Users\yusuf\source\repos\iki sayının toplamı\iki sayının toplamı\obj\Debug\iki sayının toplamı.pdb

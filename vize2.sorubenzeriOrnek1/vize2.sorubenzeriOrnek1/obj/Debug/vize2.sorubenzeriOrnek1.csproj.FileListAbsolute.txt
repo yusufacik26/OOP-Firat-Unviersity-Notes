@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\vize2.sorubenzeriOrnek1\vize2.sorubenzeriOrnek1\bin\Debug\vize2.sorubenzeriOrnek1.exe.config
+C:\Users\yusuf\source\repos\vize2.sorubenzeriOrnek1\vize2.sorubenzeriOrnek1\bin\Debug\vize2.sorubenzeriOrnek1.exe
+C:\Users\yusuf\source\repos\vize2.sorubenzeriOrnek1\vize2.sorubenzeriOrnek1\bin\Debug\vize2.sorubenzeriOrnek1.pdb
+C:\Users\yusuf\source\repos\vize2.sorubenzeriOrnek1\vize2.sorubenzeriOrnek1\obj\Debug\vize2.sorubenzeriOrnek1.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\vize2.sorubenzeriOrnek1\vize2.sorubenzeriOrnek1\obj\Debug\vize2.sorubenzeriOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\vize2.sorubenzeriOrnek1\vize2.sorubenzeriOrnek1\obj\Debug\vize2.sorubenzeriOrnek1.exe
+C:\Users\yusuf\source\repos\vize2.sorubenzeriOrnek1\vize2.sorubenzeriOrnek1\obj\Debug\vize2.sorubenzeriOrnek1.pdb

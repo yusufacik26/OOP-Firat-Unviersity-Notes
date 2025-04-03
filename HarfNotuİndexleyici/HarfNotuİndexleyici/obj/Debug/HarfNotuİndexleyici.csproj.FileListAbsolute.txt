@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\HarfNotuİndexleyici\HarfNotuİndexleyici\obj\Debug\HarfNotuİndexleyici.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\HarfNotuİndexleyici\HarfNotuİndexleyici\obj\Debug\HarfNotuİndexleyici.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\HarfNotuİndexleyici\HarfNotuİndexleyici\bin\Debug\HarfNotuİndexleyici.exe.config
+C:\Users\yusuf\source\repos\HarfNotuİndexleyici\HarfNotuİndexleyici\bin\Debug\HarfNotuİndexleyici.exe
+C:\Users\yusuf\source\repos\HarfNotuİndexleyici\HarfNotuİndexleyici\bin\Debug\HarfNotuİndexleyici.pdb
+C:\Users\yusuf\source\repos\HarfNotuİndexleyici\HarfNotuİndexleyici\obj\Debug\HarfNotuİndexleyici.exe
+C:\Users\yusuf\source\repos\HarfNotuİndexleyici\HarfNotuİndexleyici\obj\Debug\HarfNotuİndexleyici.pdb

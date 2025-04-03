@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\obj\Debug\SayıToplamı.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\obj\Debug\SayıToplamı.Form1.resources
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\obj\Debug\SayıToplamı.Properties.Resources.resources
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\obj\Debug\SayıToplamı.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\obj\Debug\SayıToplamı.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\bin\Debug\SayıToplamı.exe.config
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\bin\Debug\SayıToplamı.exe
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\bin\Debug\SayıToplamı.pdb
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\obj\Debug\SayıToplamı.exe
+C:\Users\yusuf\source\repos\SayıToplamı\SayıToplamı\obj\Debug\SayıToplamı.pdb

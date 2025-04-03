@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\obj\Debug\Halı Firması.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\obj\Debug\Halı_Firması.Form1.resources
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\obj\Debug\Halı_Firması.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\obj\Debug\Halı Firması.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\obj\Debug\Halı Firması.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\bin\Debug\Halı Firması.exe.config
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\bin\Debug\Halı Firması.exe
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\bin\Debug\Halı Firması.pdb
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\obj\Debug\Halı Firması.exe
+C:\Users\yusuf\source\repos\Halı Firması\Halı Firması\obj\Debug\Halı Firması.pdb

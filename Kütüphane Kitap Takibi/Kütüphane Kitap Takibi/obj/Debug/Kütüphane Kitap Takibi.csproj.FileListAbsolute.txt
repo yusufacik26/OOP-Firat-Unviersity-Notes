@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Kütüphane Kitap Takibi\Kütüphane Kitap Takibi\bin\Debug\Kütüphane Kitap Takibi.exe.config
+C:\Users\yusuf\source\repos\Kütüphane Kitap Takibi\Kütüphane Kitap Takibi\bin\Debug\Kütüphane Kitap Takibi.exe
+C:\Users\yusuf\source\repos\Kütüphane Kitap Takibi\Kütüphane Kitap Takibi\bin\Debug\Kütüphane Kitap Takibi.pdb
+C:\Users\yusuf\source\repos\Kütüphane Kitap Takibi\Kütüphane Kitap Takibi\obj\Debug\Kütüphane Kitap Takibi.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Kütüphane Kitap Takibi\Kütüphane Kitap Takibi\obj\Debug\Kütüphane Kitap Takibi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Kütüphane Kitap Takibi\Kütüphane Kitap Takibi\obj\Debug\Kütüphane Kitap Takibi.exe
+C:\Users\yusuf\source\repos\Kütüphane Kitap Takibi\Kütüphane Kitap Takibi\obj\Debug\Kütüphane Kitap Takibi.pdb

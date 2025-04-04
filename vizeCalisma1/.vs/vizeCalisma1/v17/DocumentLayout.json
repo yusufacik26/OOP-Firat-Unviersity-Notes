@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\vizeCalisma1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C378B808-6AE7-4F20-AC7E-46FE2668E64D}|vizeCalisma1\\vizeCalisma1.csproj|c:\\users\\yusuf\\source\\repos\\vizecalisma1\\vizecalisma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C378B808-6AE7-4F20-AC7E-46FE2668E64D}|vizeCalisma1\\vizeCalisma1.csproj|solutionrelative:vizecalisma1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\vizeCalisma1\\vizeCalisma1\\Program.cs",
+              "RelativeDocumentMoniker": "vizeCalisma1\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\vizeCalisma1\\vizeCalisma1\\Program.cs",
+              "RelativeToolTip": "vizeCalisma1\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIA6wD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:39:38.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Fatura Sistemi\Fatura Sistemi\obj\Debug\Fatura Sistemi.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Fatura Sistemi\Fatura Sistemi\obj\Debug\Fatura Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Fatura Sistemi\Fatura Sistemi\bin\Debug\Fatura Sistemi.exe.config
+C:\Users\yusuf\source\repos\Fatura Sistemi\Fatura Sistemi\bin\Debug\Fatura Sistemi.exe
+C:\Users\yusuf\source\repos\Fatura Sistemi\Fatura Sistemi\bin\Debug\Fatura Sistemi.pdb
+C:\Users\yusuf\source\repos\Fatura Sistemi\Fatura Sistemi\obj\Debug\Fatura Sistemi.exe
+C:\Users\yusuf\source\repos\Fatura Sistemi\Fatura Sistemi\obj\Debug\Fatura Sistemi.pdb

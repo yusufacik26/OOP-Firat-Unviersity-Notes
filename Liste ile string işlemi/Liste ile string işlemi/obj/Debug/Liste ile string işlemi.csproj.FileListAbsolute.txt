@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Liste ile string işlemi\Liste ile string işlemi\bin\Debug\Liste ile string işlemi.exe.config
+C:\Users\yusuf\source\repos\Liste ile string işlemi\Liste ile string işlemi\bin\Debug\Liste ile string işlemi.exe
+C:\Users\yusuf\source\repos\Liste ile string işlemi\Liste ile string işlemi\bin\Debug\Liste ile string işlemi.pdb
+C:\Users\yusuf\source\repos\Liste ile string işlemi\Liste ile string işlemi\obj\Debug\Liste ile string işlemi.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Liste ile string işlemi\Liste ile string işlemi\obj\Debug\Liste ile string işlemi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Liste ile string işlemi\Liste ile string işlemi\obj\Debug\Liste ile string işlemi.exe
+C:\Users\yusuf\source\repos\Liste ile string işlemi\Liste ile string işlemi\obj\Debug\Liste ile string işlemi.pdb

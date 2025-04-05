@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\indexerCalisma\indexerCalisma\bin\Debug\indexerCalisma.exe.config
+C:\Users\yusuf\source\repos\indexerCalisma\indexerCalisma\bin\Debug\indexerCalisma.exe
+C:\Users\yusuf\source\repos\indexerCalisma\indexerCalisma\bin\Debug\indexerCalisma.pdb
+C:\Users\yusuf\source\repos\indexerCalisma\indexerCalisma\obj\Debug\indexerCalisma.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\indexerCalisma\indexerCalisma\obj\Debug\indexerCalisma.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\indexerCalisma\indexerCalisma\obj\Debug\indexerCalisma.exe
+C:\Users\yusuf\source\repos\indexerCalisma\indexerCalisma\obj\Debug\indexerCalisma.pdb

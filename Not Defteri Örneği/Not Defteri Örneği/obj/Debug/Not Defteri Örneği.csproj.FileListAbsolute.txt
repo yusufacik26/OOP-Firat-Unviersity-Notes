@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Not Defteri Örneği\Not Defteri Örneği\bin\Debug\Not Defteri Örneği.exe.config
+C:\Users\yusuf\source\repos\Not Defteri Örneği\Not Defteri Örneği\bin\Debug\Not Defteri Örneği.exe
+C:\Users\yusuf\source\repos\Not Defteri Örneği\Not Defteri Örneği\bin\Debug\Not Defteri Örneği.pdb
+C:\Users\yusuf\source\repos\Not Defteri Örneği\Not Defteri Örneği\obj\Debug\Not Defteri Örneği.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Not Defteri Örneği\Not Defteri Örneği\obj\Debug\Not Defteri Örneği.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Not Defteri Örneği\Not Defteri Örneği\obj\Debug\Not Defteri Örneği.exe
+C:\Users\yusuf\source\repos\Not Defteri Örneği\Not Defteri Örneği\obj\Debug\Not Defteri Örneği.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Not Defteri Örneği", "Not Defteri Örneği\Not Defteri Örneği.csproj", "{877FD9AC-B246-4BDD-A0CF-B2ADE466238D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877FD9AC-B246-4BDD-A0CF-B2ADE466238D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877FD9AC-B246-4BDD-A0CF-B2ADE466238D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877FD9AC-B246-4BDD-A0CF-B2ADE466238D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877FD9AC-B246-4BDD-A0CF-B2ADE466238D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4711E00-04D8-4E93-83DE-2106629968EF}
+	EndGlobalSection
+EndGlobal

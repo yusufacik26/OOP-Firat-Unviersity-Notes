@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\kitap indexleme\kitap indexleme\obj\Debug\kitap indexleme.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\kitap indexleme\kitap indexleme\obj\Debug\kitap indexleme.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\kitap indexleme\kitap indexleme\bin\Debug\kitap indexleme.exe.config
+C:\Users\yusuf\source\repos\kitap indexleme\kitap indexleme\bin\Debug\kitap indexleme.exe
+C:\Users\yusuf\source\repos\kitap indexleme\kitap indexleme\bin\Debug\kitap indexleme.pdb
+C:\Users\yusuf\source\repos\kitap indexleme\kitap indexleme\obj\Debug\kitap indexleme.exe
+C:\Users\yusuf\source\repos\kitap indexleme\kitap indexleme\obj\Debug\kitap indexleme.pdb

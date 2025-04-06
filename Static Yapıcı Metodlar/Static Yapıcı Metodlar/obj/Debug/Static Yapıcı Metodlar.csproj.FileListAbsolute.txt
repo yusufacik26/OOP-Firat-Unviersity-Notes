@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Static Yapıcı Metodlar\Static Yapıcı Metodlar\obj\Debug\Static Yapıcı Metodlar.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Static Yapıcı Metodlar\Static Yapıcı Metodlar\obj\Debug\Static Yapıcı Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Static Yapıcı Metodlar\Static Yapıcı Metodlar\bin\Debug\Static Yapıcı Metodlar.exe.config
+C:\Users\yusuf\source\repos\Static Yapıcı Metodlar\Static Yapıcı Metodlar\bin\Debug\Static Yapıcı Metodlar.exe
+C:\Users\yusuf\source\repos\Static Yapıcı Metodlar\Static Yapıcı Metodlar\bin\Debug\Static Yapıcı Metodlar.pdb
+C:\Users\yusuf\source\repos\Static Yapıcı Metodlar\Static Yapıcı Metodlar\obj\Debug\Static Yapıcı Metodlar.exe
+C:\Users\yusuf\source\repos\Static Yapıcı Metodlar\Static Yapıcı Metodlar\obj\Debug\Static Yapıcı Metodlar.pdb

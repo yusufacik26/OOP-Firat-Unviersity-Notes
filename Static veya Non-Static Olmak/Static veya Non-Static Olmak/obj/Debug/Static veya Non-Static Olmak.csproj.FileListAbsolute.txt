@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Static veya Non-Static Olmak\Static veya Non-Static Olmak\bin\Debug\Static veya Non-Static Olmak.exe.config
+C:\Users\yusuf\source\repos\Static veya Non-Static Olmak\Static veya Non-Static Olmak\bin\Debug\Static veya Non-Static Olmak.exe
+C:\Users\yusuf\source\repos\Static veya Non-Static Olmak\Static veya Non-Static Olmak\bin\Debug\Static veya Non-Static Olmak.pdb
+C:\Users\yusuf\source\repos\Static veya Non-Static Olmak\Static veya Non-Static Olmak\obj\Debug\Static veya Non-Static Olmak.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Static veya Non-Static Olmak\Static veya Non-Static Olmak\obj\Debug\Static veya Non-Static Olmak.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Static veya Non-Static Olmak\Static veya Non-Static Olmak\obj\Debug\Static veya Non-Static Olmak.exe
+C:\Users\yusuf\source\repos\Static veya Non-Static Olmak\Static veya Non-Static Olmak\obj\Debug\Static veya Non-Static Olmak.pdb

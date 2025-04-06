@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static veya Non-Static Olmak", "Static veya Non-Static Olmak\Static veya Non-Static Olmak.csproj", "{3FD21A01-809B-4A68-9AAE-125793730C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD21A01-809B-4A68-9AAE-125793730C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD21A01-809B-4A68-9AAE-125793730C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD21A01-809B-4A68-9AAE-125793730C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD21A01-809B-4A68-9AAE-125793730C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E7E92E5-C229-42D4-8061-0C9E8EE0D020}
+	EndGlobalSection
+EndGlobal

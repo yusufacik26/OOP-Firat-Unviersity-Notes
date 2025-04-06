@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Static yapıcı metodlar 2\Static yapıcı metodlar 2\bin\Debug\Static yapıcı metodlar 2.exe.config
+C:\Users\yusuf\source\repos\Static yapıcı metodlar 2\Static yapıcı metodlar 2\bin\Debug\Static yapıcı metodlar 2.exe
+C:\Users\yusuf\source\repos\Static yapıcı metodlar 2\Static yapıcı metodlar 2\bin\Debug\Static yapıcı metodlar 2.pdb
+C:\Users\yusuf\source\repos\Static yapıcı metodlar 2\Static yapıcı metodlar 2\obj\Debug\Static yapıcı metodlar 2.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Static yapıcı metodlar 2\Static yapıcı metodlar 2\obj\Debug\Static yapıcı metodlar 2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Static yapıcı metodlar 2\Static yapıcı metodlar 2\obj\Debug\Static yapıcı metodlar 2.exe
+C:\Users\yusuf\source\repos\Static yapıcı metodlar 2\Static yapıcı metodlar 2\obj\Debug\Static yapıcı metodlar 2.pdb

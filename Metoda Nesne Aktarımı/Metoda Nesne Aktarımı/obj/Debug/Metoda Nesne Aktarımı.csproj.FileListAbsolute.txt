@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\bin\Debug\Metoda Nesne Aktarımı.exe.config
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\bin\Debug\Metoda Nesne Aktarımı.exe
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\bin\Debug\Metoda Nesne Aktarımı.pdb
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\obj\Debug\Metoda Nesne Aktarımı.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\obj\Debug\Metoda_Nesne_Aktarımı.Form1.resources
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\obj\Debug\Metoda_Nesne_Aktarımı.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\obj\Debug\Metoda Nesne Aktarımı.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\obj\Debug\Metoda Nesne Aktarımı.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\obj\Debug\Metoda Nesne Aktarımı.exe
+C:\Users\yusuf\source\repos\Metoda Nesne Aktarımı\Metoda Nesne Aktarımı\obj\Debug\Metoda Nesne Aktarımı.pdb

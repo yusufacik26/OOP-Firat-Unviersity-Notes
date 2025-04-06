@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Static Üye elemanları1\Static Üye elemanları1\bin\Debug\Static Üye elemanları1.exe.config
+C:\Users\yusuf\source\repos\Static Üye elemanları1\Static Üye elemanları1\bin\Debug\Static Üye elemanları1.exe
+C:\Users\yusuf\source\repos\Static Üye elemanları1\Static Üye elemanları1\bin\Debug\Static Üye elemanları1.pdb
+C:\Users\yusuf\source\repos\Static Üye elemanları1\Static Üye elemanları1\obj\Debug\Static Üye elemanları1.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Static Üye elemanları1\Static Üye elemanları1\obj\Debug\Static Üye elemanları1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Static Üye elemanları1\Static Üye elemanları1\obj\Debug\Static Üye elemanları1.exe
+C:\Users\yusuf\source\repos\Static Üye elemanları1\Static Üye elemanları1\obj\Debug\Static Üye elemanları1.pdb

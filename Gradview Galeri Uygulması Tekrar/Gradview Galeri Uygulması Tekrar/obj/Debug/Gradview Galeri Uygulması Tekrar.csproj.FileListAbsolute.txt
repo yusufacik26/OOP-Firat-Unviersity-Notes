@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\bin\Debug\Gradview Galeri Uygulması Tekrar.exe.config
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\bin\Debug\Gradview Galeri Uygulması Tekrar.exe
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\bin\Debug\Gradview Galeri Uygulması Tekrar.pdb
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\obj\Debug\Gradview Galeri Uygulması Tekrar.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\obj\Debug\Gradview_Galeri_Uygulması_Tekrar.Form1.resources
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\obj\Debug\Gradview_Galeri_Uygulması_Tekrar.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\obj\Debug\Gradview Galeri Uygulması Tekrar.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\obj\Debug\Gradview Galeri Uygulması Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\obj\Debug\Gradview Galeri Uygulması Tekrar.exe
+C:\Users\yusuf\source\repos\Gradview Galeri Uygulması Tekrar\Gradview Galeri Uygulması Tekrar\obj\Debug\Gradview Galeri Uygulması Tekrar.pdb

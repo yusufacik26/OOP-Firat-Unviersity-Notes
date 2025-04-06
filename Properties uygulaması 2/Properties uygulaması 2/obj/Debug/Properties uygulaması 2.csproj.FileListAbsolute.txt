@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Properties uygulaması 2\Properties uygulaması 2\bin\Debug\Properties uygulaması 2.exe.config
+C:\Users\yusuf\source\repos\Properties uygulaması 2\Properties uygulaması 2\bin\Debug\Properties uygulaması 2.exe
+C:\Users\yusuf\source\repos\Properties uygulaması 2\Properties uygulaması 2\bin\Debug\Properties uygulaması 2.pdb
+C:\Users\yusuf\source\repos\Properties uygulaması 2\Properties uygulaması 2\obj\Debug\Properties uygulaması 2.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Properties uygulaması 2\Properties uygulaması 2\obj\Debug\Properties uygulaması 2.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Properties uygulaması 2\Properties uygulaması 2\obj\Debug\Properties uygulaması 2.exe
+C:\Users\yusuf\source\repos\Properties uygulaması 2\Properties uygulaması 2\obj\Debug\Properties uygulaması 2.pdb

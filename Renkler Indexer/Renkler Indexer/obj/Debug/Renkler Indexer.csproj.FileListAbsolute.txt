@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Renkler Indexer\Renkler Indexer\bin\Debug\Renkler Indexer.exe.config
+C:\Users\yusuf\source\repos\Renkler Indexer\Renkler Indexer\bin\Debug\Renkler Indexer.exe
+C:\Users\yusuf\source\repos\Renkler Indexer\Renkler Indexer\bin\Debug\Renkler Indexer.pdb
+C:\Users\yusuf\source\repos\Renkler Indexer\Renkler Indexer\obj\Debug\Renkler Indexer.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Renkler Indexer\Renkler Indexer\obj\Debug\Renkler Indexer.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Renkler Indexer\Renkler Indexer\obj\Debug\Renkler Indexer.exe
+C:\Users\yusuf\source\repos\Renkler Indexer\Renkler Indexer\obj\Debug\Renkler Indexer.pdb

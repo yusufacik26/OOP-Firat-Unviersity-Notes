@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\Renkler Indexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC38EB18-6C17-41D6-9E2F-9F8643799F38}|Renkler Indexer\\Renkler Indexer.csproj|c:\\users\\yusuf\\source\\repos\\renkler indexer\\renkler indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC38EB18-6C17-41D6-9E2F-9F8643799F38}|Renkler Indexer\\Renkler Indexer.csproj|solutionrelative:renkler indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\Renkler Indexer\\Renkler Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "Renkler Indexer\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\Renkler Indexer\\Renkler Indexer\\Program.cs",
+              "RelativeToolTip": "Renkler Indexer\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIA8wB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:21:32.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

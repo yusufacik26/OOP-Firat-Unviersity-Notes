@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\bin\Debug\Bankacılık uygulaması Tekrar.exe.config
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\bin\Debug\Bankacılık uygulaması Tekrar.exe
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\bin\Debug\Bankacılık uygulaması Tekrar.pdb
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\obj\Debug\Bankacılık uygulaması Tekrar.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\obj\Debug\Bankacılık_uygulaması_Tekrar.Form1.resources
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\obj\Debug\Bankacılık_uygulaması_Tekrar.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\obj\Debug\Bankacılık uygulaması Tekrar.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\obj\Debug\Bankacılık uygulaması Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\obj\Debug\Bankacılık uygulaması Tekrar.exe
+C:\Users\yusuf\source\repos\Bankacılık uygulaması Tekrar\Bankacılık uygulaması Tekrar\obj\Debug\Bankacılık uygulaması Tekrar.pdb

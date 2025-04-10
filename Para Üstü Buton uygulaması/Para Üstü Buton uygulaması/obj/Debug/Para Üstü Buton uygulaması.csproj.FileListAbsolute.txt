@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\bin\Debug\Para Üstü Buton uygulaması.exe.config
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\bin\Debug\Para Üstü Buton uygulaması.exe
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\bin\Debug\Para Üstü Buton uygulaması.pdb
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\obj\Debug\Para Üstü Buton uygulaması.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\obj\Debug\Para_Üstü_Buton_uygulaması.Form1.resources
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\obj\Debug\Para_Üstü_Buton_uygulaması.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\obj\Debug\Para Üstü Buton uygulaması.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\obj\Debug\Para Üstü Buton uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\obj\Debug\Para Üstü Buton uygulaması.exe
+C:\Users\yusuf\source\repos\Para Üstü Buton uygulaması\Para Üstü Buton uygulaması\obj\Debug\Para Üstü Buton uygulaması.pdb

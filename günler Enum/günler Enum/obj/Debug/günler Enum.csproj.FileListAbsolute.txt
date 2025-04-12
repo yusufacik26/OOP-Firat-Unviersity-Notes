@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\günler Enum\günler Enum\obj\Debug\günler Enum.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\günler Enum\günler Enum\obj\Debug\günler Enum.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\günler Enum\günler Enum\bin\Debug\günler Enum.exe.config
+C:\Users\yusuf\source\repos\günler Enum\günler Enum\bin\Debug\günler Enum.exe
+C:\Users\yusuf\source\repos\günler Enum\günler Enum\bin\Debug\günler Enum.pdb
+C:\Users\yusuf\source\repos\günler Enum\günler Enum\obj\Debug\günler Enum.exe
+C:\Users\yusuf\source\repos\günler Enum\günler Enum\obj\Debug\günler Enum.pdb

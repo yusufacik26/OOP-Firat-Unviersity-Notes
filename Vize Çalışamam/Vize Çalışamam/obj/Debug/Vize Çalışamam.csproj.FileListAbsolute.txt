@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\bin\Debug\Vize Çalışamam.exe.config
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\bin\Debug\Vize Çalışamam.exe
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\bin\Debug\Vize Çalışamam.pdb
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\obj\Debug\Vize Çalışamam.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\obj\Debug\Vize_Çalışamam.Form1.resources
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\obj\Debug\Vize_Çalışamam.Properties.Resources.resources
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\obj\Debug\Vize Çalışamam.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\obj\Debug\Vize Çalışamam.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\obj\Debug\Vize Çalışamam.exe
+C:\Users\yusuf\source\repos\Vize Çalışamam\Vize Çalışamam\obj\Debug\Vize Çalışamam.pdb

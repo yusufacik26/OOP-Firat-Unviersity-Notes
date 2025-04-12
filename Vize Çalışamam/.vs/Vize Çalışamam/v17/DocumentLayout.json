@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\Vize \u00C7al\u0131\u015Famam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E573DE7F-2D28-4CE9-AFF5-D84B97D42861}|Vize \u00C7al\u0131\u015Famam\\Vize \u00C7al\u0131\u015Famam.csproj|c:\\users\\yusuf\\source\\repos\\vize \u00E7al\u0131\u015Famam\\vize \u00E7al\u0131\u015Famam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E573DE7F-2D28-4CE9-AFF5-D84B97D42861}|Vize \u00C7al\u0131\u015Famam\\Vize \u00C7al\u0131\u015Famam.csproj|solutionrelative:vize \u00E7al\u0131\u015Famam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E573DE7F-2D28-4CE9-AFF5-D84B97D42861}|Vize \u00C7al\u0131\u015Famam\\Vize \u00C7al\u0131\u015Famam.csproj|c:\\users\\yusuf\\source\\repos\\vize \u00E7al\u0131\u015Famam\\vize \u00E7al\u0131\u015Famam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E573DE7F-2D28-4CE9-AFF5-D84B97D42861}|Vize \u00C7al\u0131\u015Famam\\Vize \u00C7al\u0131\u015Famam.csproj|solutionrelative:vize \u00E7al\u0131\u015Famam\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\Vize \u00C7al\u0131\u015Famam\\Vize \u00C7al\u0131\u015Famam\\Form1.cs",
+              "RelativeDocumentMoniker": "Vize \u00C7al\u0131\u015Famam\\Form1.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\Vize \u00C7al\u0131\u015Famam\\Vize \u00C7al\u0131\u015Famam\\Form1.cs",
+              "RelativeToolTip": "Vize \u00C7al\u0131\u015Famam\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAawCMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:27:56.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\Vize \u00C7al\u0131\u015Famam\\Vize \u00C7al\u0131\u015Famam\\Form1.cs",
+              "RelativeDocumentMoniker": "Vize \u00C7al\u0131\u015Famam\\Form1.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\Vize \u00C7al\u0131\u015Famam\\Vize \u00C7al\u0131\u015Famam\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Vize \u00C7al\u0131\u015Famam\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T11:25:47.155Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

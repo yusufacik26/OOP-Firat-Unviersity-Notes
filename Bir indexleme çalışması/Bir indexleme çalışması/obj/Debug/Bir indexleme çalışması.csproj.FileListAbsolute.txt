@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Bir indexleme çalışması\Bir indexleme çalışması\bin\Debug\Bir indexleme çalışması.exe.config
+C:\Users\yusuf\source\repos\Bir indexleme çalışması\Bir indexleme çalışması\bin\Debug\Bir indexleme çalışması.exe
+C:\Users\yusuf\source\repos\Bir indexleme çalışması\Bir indexleme çalışması\bin\Debug\Bir indexleme çalışması.pdb
+C:\Users\yusuf\source\repos\Bir indexleme çalışması\Bir indexleme çalışması\obj\Debug\Bir indexleme çalışması.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Bir indexleme çalışması\Bir indexleme çalışması\obj\Debug\Bir indexleme çalışması.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Bir indexleme çalışması\Bir indexleme çalışması\obj\Debug\Bir indexleme çalışması.exe
+C:\Users\yusuf\source\repos\Bir indexleme çalışması\Bir indexleme çalışması\obj\Debug\Bir indexleme çalışması.pdb

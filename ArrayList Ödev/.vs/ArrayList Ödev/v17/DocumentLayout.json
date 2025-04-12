@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\ArrayList \u00D6dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323F2C55-78B3-41AF-9C13-680C967CEE4D}|ArrayList \u00D6dev\\ArrayList \u00D6dev.csproj|c:\\users\\yusuf\\source\\repos\\arraylist \u00F6dev\\arraylist \u00F6dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323F2C55-78B3-41AF-9C13-680C967CEE4D}|ArrayList \u00D6dev\\ArrayList \u00D6dev.csproj|solutionrelative:arraylist \u00F6dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\ArrayList \u00D6dev\\ArrayList \u00D6dev\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList \u00D6dev\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\ArrayList \u00D6dev\\ArrayList \u00D6dev\\Program.cs",
+              "RelativeToolTip": "ArrayList \u00D6dev\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:44:01.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

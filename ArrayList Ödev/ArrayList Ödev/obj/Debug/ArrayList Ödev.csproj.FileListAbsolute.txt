@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\ArrayList Ödev\ArrayList Ödev\bin\Debug\ArrayList Ödev.exe.config
+C:\Users\yusuf\source\repos\ArrayList Ödev\ArrayList Ödev\bin\Debug\ArrayList Ödev.exe
+C:\Users\yusuf\source\repos\ArrayList Ödev\ArrayList Ödev\bin\Debug\ArrayList Ödev.pdb
+C:\Users\yusuf\source\repos\ArrayList Ödev\ArrayList Ödev\obj\Debug\ArrayList Ödev.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ArrayList Ödev\ArrayList Ödev\obj\Debug\ArrayList Ödev.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ArrayList Ödev\ArrayList Ödev\obj\Debug\ArrayList Ödev.exe
+C:\Users\yusuf\source\repos\ArrayList Ödev\ArrayList Ödev\obj\Debug\ArrayList Ödev.pdb

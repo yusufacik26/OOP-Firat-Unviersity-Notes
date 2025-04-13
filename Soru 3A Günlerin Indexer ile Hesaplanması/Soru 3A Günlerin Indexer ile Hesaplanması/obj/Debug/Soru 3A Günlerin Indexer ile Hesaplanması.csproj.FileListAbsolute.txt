@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Soru 3A Günlerin Indexer ile Hesaplanması\Soru 3A Günlerin Indexer ile Hesaplanması\bin\Debug\Soru 3A Günlerin Indexer ile Hesaplanması.exe.config
+C:\Users\yusuf\source\repos\Soru 3A Günlerin Indexer ile Hesaplanması\Soru 3A Günlerin Indexer ile Hesaplanması\bin\Debug\Soru 3A Günlerin Indexer ile Hesaplanması.exe
+C:\Users\yusuf\source\repos\Soru 3A Günlerin Indexer ile Hesaplanması\Soru 3A Günlerin Indexer ile Hesaplanması\bin\Debug\Soru 3A Günlerin Indexer ile Hesaplanması.pdb
+C:\Users\yusuf\source\repos\Soru 3A Günlerin Indexer ile Hesaplanması\Soru 3A Günlerin Indexer ile Hesaplanması\obj\Debug\Soru 3A Günlerin Indexer ile Hesaplanması.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Soru 3A Günlerin Indexer ile Hesaplanması\Soru 3A Günlerin Indexer ile Hesaplanması\obj\Debug\Soru 3A Günlerin Indexer ile Hesaplanması.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Soru 3A Günlerin Indexer ile Hesaplanması\Soru 3A Günlerin Indexer ile Hesaplanması\obj\Debug\Soru 3A Günlerin Indexer ile Hesaplanması.exe
+C:\Users\yusuf\source\repos\Soru 3A Günlerin Indexer ile Hesaplanması\Soru 3A Günlerin Indexer ile Hesaplanması\obj\Debug\Soru 3A Günlerin Indexer ile Hesaplanması.pdb

@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Soru1AKitapYazar- Kütüphane\Soru1AKitapYazar- Kütüphane\bin\Debug\Soru1AKitapYazar- Kütüphane.exe.config
+C:\Users\yusuf\source\repos\Soru1AKitapYazar- Kütüphane\Soru1AKitapYazar- Kütüphane\bin\Debug\Soru1AKitapYazar- Kütüphane.exe
+C:\Users\yusuf\source\repos\Soru1AKitapYazar- Kütüphane\Soru1AKitapYazar- Kütüphane\bin\Debug\Soru1AKitapYazar- Kütüphane.pdb
+C:\Users\yusuf\source\repos\Soru1AKitapYazar- Kütüphane\Soru1AKitapYazar- Kütüphane\obj\Debug\Soru1AKitapYazar- Kütüphane.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Soru1AKitapYazar- Kütüphane\Soru1AKitapYazar- Kütüphane\obj\Debug\Soru1AKitapYazar- Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Soru1AKitapYazar- Kütüphane\Soru1AKitapYazar- Kütüphane\obj\Debug\Soru1AKitapYazar- Kütüphane.exe
+C:\Users\yusuf\source\repos\Soru1AKitapYazar- Kütüphane\Soru1AKitapYazar- Kütüphane\obj\Debug\Soru1AKitapYazar- Kütüphane.pdb

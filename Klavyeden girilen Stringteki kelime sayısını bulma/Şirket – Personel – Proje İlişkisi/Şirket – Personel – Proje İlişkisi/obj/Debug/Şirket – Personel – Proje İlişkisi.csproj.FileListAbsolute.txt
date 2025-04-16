@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Şirket – Personel – Proje İlişkisi\Şirket – Personel – Proje İlişkisi\bin\Debug\Şirket – Personel – Proje İlişkisi.exe.config
+C:\Users\yusuf\source\repos\Şirket – Personel – Proje İlişkisi\Şirket – Personel – Proje İlişkisi\bin\Debug\Şirket – Personel – Proje İlişkisi.exe
+C:\Users\yusuf\source\repos\Şirket – Personel – Proje İlişkisi\Şirket – Personel – Proje İlişkisi\bin\Debug\Şirket – Personel – Proje İlişkisi.pdb
+C:\Users\yusuf\source\repos\Şirket – Personel – Proje İlişkisi\Şirket – Personel – Proje İlişkisi\obj\Debug\Şirket – Personel – Proje İlişkisi.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Şirket – Personel – Proje İlişkisi\Şirket – Personel – Proje İlişkisi\obj\Debug\Şirket – Personel – Proje İlişkisi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Şirket – Personel – Proje İlişkisi\Şirket – Personel – Proje İlişkisi\obj\Debug\Şirket – Personel – Proje İlişkisi.exe
+C:\Users\yusuf\source\repos\Şirket – Personel – Proje İlişkisi\Şirket – Personel – Proje İlişkisi\obj\Debug\Şirket – Personel – Proje İlişkisi.pdb

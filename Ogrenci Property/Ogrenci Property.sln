@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ogrenci Property", "Ogrenci Property\Ogrenci Property.csproj", "{497EDF1D-6935-4A3D-9662-F905DA894AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497EDF1D-6935-4A3D-9662-F905DA894AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497EDF1D-6935-4A3D-9662-F905DA894AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497EDF1D-6935-4A3D-9662-F905DA894AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497EDF1D-6935-4A3D-9662-F905DA894AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F763049-5796-4111-B907-EA8BFC65DCDB}
+	EndGlobalSection
+EndGlobal

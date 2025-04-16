@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\Ogrenci Property\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{497EDF1D-6935-4A3D-9662-F905DA894AA4}|Ogrenci Property\\Ogrenci Property.csproj|c:\\users\\yusuf\\source\\repos\\ogrenci property\\ogrenci property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497EDF1D-6935-4A3D-9662-F905DA894AA4}|Ogrenci Property\\Ogrenci Property.csproj|solutionrelative:ogrenci property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\Ogrenci Property\\Ogrenci Property\\Program.cs",
+              "RelativeDocumentMoniker": "Ogrenci Property\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\Ogrenci Property\\Ogrenci Property\\Program.cs*",
+              "RelativeToolTip": "Ogrenci Property\\Program.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAA0wDoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:20:11.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

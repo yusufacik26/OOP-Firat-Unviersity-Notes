@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Ogrenci Property\Ogrenci Property\bin\Debug\Ogrenci Property.exe.config
+C:\Users\yusuf\source\repos\Ogrenci Property\Ogrenci Property\bin\Debug\Ogrenci Property.exe
+C:\Users\yusuf\source\repos\Ogrenci Property\Ogrenci Property\bin\Debug\Ogrenci Property.pdb
+C:\Users\yusuf\source\repos\Ogrenci Property\Ogrenci Property\obj\Debug\Ogrenci Property.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Ogrenci Property\Ogrenci Property\obj\Debug\Ogrenci Property.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Ogrenci Property\Ogrenci Property\obj\Debug\Ogrenci Property.exe
+C:\Users\yusuf\source\repos\Ogrenci Property\Ogrenci Property\obj\Debug\Ogrenci Property.pdb

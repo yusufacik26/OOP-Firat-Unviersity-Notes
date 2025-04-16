@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Renk Kodu Eşleştirme\Renk Kodu Eşleştirme\bin\Debug\Renk Kodu Eşleştirme.exe.config
+C:\Users\yusuf\source\repos\Renk Kodu Eşleştirme\Renk Kodu Eşleştirme\bin\Debug\Renk Kodu Eşleştirme.exe
+C:\Users\yusuf\source\repos\Renk Kodu Eşleştirme\Renk Kodu Eşleştirme\bin\Debug\Renk Kodu Eşleştirme.pdb
+C:\Users\yusuf\source\repos\Renk Kodu Eşleştirme\Renk Kodu Eşleştirme\obj\Debug\Renk Kodu Eşleştirme.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Renk Kodu Eşleştirme\Renk Kodu Eşleştirme\obj\Debug\Renk Kodu Eşleştirme.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Renk Kodu Eşleştirme\Renk Kodu Eşleştirme\obj\Debug\Renk Kodu Eşleştirme.exe
+C:\Users\yusuf\source\repos\Renk Kodu Eşleştirme\Renk Kodu Eşleştirme\obj\Debug\Renk Kodu Eşleştirme.pdb

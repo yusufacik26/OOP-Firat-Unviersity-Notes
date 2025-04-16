@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Kitap – Yazar – Yayinevi İlişkisi\Kitap – Yazar – Yayinevi İlişkisi\bin\Debug\Kitap – Yazar – Yayinevi İlişkisi.exe.config
+C:\Users\yusuf\source\repos\Kitap – Yazar – Yayinevi İlişkisi\Kitap – Yazar – Yayinevi İlişkisi\bin\Debug\Kitap – Yazar – Yayinevi İlişkisi.exe
+C:\Users\yusuf\source\repos\Kitap – Yazar – Yayinevi İlişkisi\Kitap – Yazar – Yayinevi İlişkisi\bin\Debug\Kitap – Yazar – Yayinevi İlişkisi.pdb
+C:\Users\yusuf\source\repos\Kitap – Yazar – Yayinevi İlişkisi\Kitap – Yazar – Yayinevi İlişkisi\obj\Debug\Kitap – Yazar – Yayinevi İlişkisi.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Kitap – Yazar – Yayinevi İlişkisi\Kitap – Yazar – Yayinevi İlişkisi\obj\Debug\Kitap – Yazar – Yayinevi İlişkisi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Kitap – Yazar – Yayinevi İlişkisi\Kitap – Yazar – Yayinevi İlişkisi\obj\Debug\Kitap – Yazar – Yayinevi İlişkisi.exe
+C:\Users\yusuf\source\repos\Kitap – Yazar – Yayinevi İlişkisi\Kitap – Yazar – Yayinevi İlişkisi\obj\Debug\Kitap – Yazar – Yayinevi İlişkisi.pdb

@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Okul – Öğretmen – Sınıf İlişkisi\Okul – Öğretmen – Sınıf İlişkisi\bin\Debug\Okul – Öğretmen – Sınıf İlişkisi.exe.config
+C:\Users\yusuf\source\repos\Okul – Öğretmen – Sınıf İlişkisi\Okul – Öğretmen – Sınıf İlişkisi\bin\Debug\Okul – Öğretmen – Sınıf İlişkisi.exe
+C:\Users\yusuf\source\repos\Okul – Öğretmen – Sınıf İlişkisi\Okul – Öğretmen – Sınıf İlişkisi\bin\Debug\Okul – Öğretmen – Sınıf İlişkisi.pdb
+C:\Users\yusuf\source\repos\Okul – Öğretmen – Sınıf İlişkisi\Okul – Öğretmen – Sınıf İlişkisi\obj\Debug\Okul – Öğretmen – Sınıf İlişkisi.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Okul – Öğretmen – Sınıf İlişkisi\Okul – Öğretmen – Sınıf İlişkisi\obj\Debug\Okul – Öğretmen – Sınıf İlişkisi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Okul – Öğretmen – Sınıf İlişkisi\Okul – Öğretmen – Sınıf İlişkisi\obj\Debug\Okul – Öğretmen – Sınıf İlişkisi.exe
+C:\Users\yusuf\source\repos\Okul – Öğretmen – Sınıf İlişkisi\Okul – Öğretmen – Sınıf İlişkisi\obj\Debug\Okul – Öğretmen – Sınıf İlişkisi.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okul – Öğretmen – Sınıf İlişkisi", "Okul – Öğretmen – Sınıf İlişkisi\Okul – Öğretmen – Sınıf İlişkisi.csproj", "{553325BF-F945-4071-8725-AF3E97873590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553325BF-F945-4071-8725-AF3E97873590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553325BF-F945-4071-8725-AF3E97873590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553325BF-F945-4071-8725-AF3E97873590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553325BF-F945-4071-8725-AF3E97873590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298714A0-EB7F-44A7-89BA-2B214B35C9CB}
+	EndGlobalSection
+EndGlobal

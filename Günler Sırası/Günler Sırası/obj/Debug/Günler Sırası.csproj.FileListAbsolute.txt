@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Günler Sırası\Günler Sırası\bin\Debug\Günler Sırası.exe.config
+C:\Users\yusuf\source\repos\Günler Sırası\Günler Sırası\bin\Debug\Günler Sırası.exe
+C:\Users\yusuf\source\repos\Günler Sırası\Günler Sırası\bin\Debug\Günler Sırası.pdb
+C:\Users\yusuf\source\repos\Günler Sırası\Günler Sırası\obj\Debug\Günler Sırası.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Günler Sırası\Günler Sırası\obj\Debug\Günler Sırası.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Günler Sırası\Günler Sırası\obj\Debug\Günler Sırası.exe
+C:\Users\yusuf\source\repos\Günler Sırası\Günler Sırası\obj\Debug\Günler Sırası.pdb

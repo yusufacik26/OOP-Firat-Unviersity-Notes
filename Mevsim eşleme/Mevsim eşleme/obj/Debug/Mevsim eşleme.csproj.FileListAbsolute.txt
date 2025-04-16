@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Mevsim eşleme\Mevsim eşleme\obj\Debug\Mevsim eşleme.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Mevsim eşleme\Mevsim eşleme\obj\Debug\Mevsim eşleme.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Mevsim eşleme\Mevsim eşleme\bin\Debug\Mevsim eşleme.exe.config
+C:\Users\yusuf\source\repos\Mevsim eşleme\Mevsim eşleme\bin\Debug\Mevsim eşleme.exe
+C:\Users\yusuf\source\repos\Mevsim eşleme\Mevsim eşleme\bin\Debug\Mevsim eşleme.pdb
+C:\Users\yusuf\source\repos\Mevsim eşleme\Mevsim eşleme\obj\Debug\Mevsim eşleme.exe
+C:\Users\yusuf\source\repos\Mevsim eşleme\Mevsim eşleme\obj\Debug\Mevsim eşleme.pdb

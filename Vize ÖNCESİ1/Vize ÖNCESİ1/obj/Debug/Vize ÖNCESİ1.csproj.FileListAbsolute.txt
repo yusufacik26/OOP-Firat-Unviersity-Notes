@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Vize ÖNCESİ1\Vize ÖNCESİ1\bin\Debug\Vize ÖNCESİ1.exe.config
+C:\Users\yusuf\source\repos\Vize ÖNCESİ1\Vize ÖNCESİ1\bin\Debug\Vize ÖNCESİ1.exe
+C:\Users\yusuf\source\repos\Vize ÖNCESİ1\Vize ÖNCESİ1\bin\Debug\Vize ÖNCESİ1.pdb
+C:\Users\yusuf\source\repos\Vize ÖNCESİ1\Vize ÖNCESİ1\obj\Debug\Vize ÖNCESİ1.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Vize ÖNCESİ1\Vize ÖNCESİ1\obj\Debug\Vize ÖNCESİ1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Vize ÖNCESİ1\Vize ÖNCESİ1\obj\Debug\Vize ÖNCESİ1.exe
+C:\Users\yusuf\source\repos\Vize ÖNCESİ1\Vize ÖNCESİ1\obj\Debug\Vize ÖNCESİ1.pdb

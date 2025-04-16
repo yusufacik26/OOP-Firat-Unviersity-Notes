@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\\u0130l Trafik Kodu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE56B656-C295-4592-9969-9A8E8F481602}|\u0130l Trafik Kodu\\\u0130l Trafik Kodu.csproj|c:\\users\\yusuf\\source\\repos\\\u0130l trafik kodu\\\u0130l trafik kodu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE56B656-C295-4592-9969-9A8E8F481602}|\u0130l Trafik Kodu\\\u0130l Trafik Kodu.csproj|solutionrelative:\u0130l trafik kodu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\\u0130l Trafik Kodu\\\u0130l Trafik Kodu\\Program.cs",
+              "RelativeDocumentMoniker": "\u0130l Trafik Kodu\\Program.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\\u0130l Trafik Kodu\\\u0130l Trafik Kodu\\Program.cs*",
+              "RelativeToolTip": "\u0130l Trafik Kodu\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:30:22.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

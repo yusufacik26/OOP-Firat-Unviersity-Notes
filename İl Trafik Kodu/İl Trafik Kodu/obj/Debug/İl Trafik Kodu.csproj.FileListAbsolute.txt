@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\İl Trafik Kodu\İl Trafik Kodu\bin\Debug\İl Trafik Kodu.exe.config
+C:\Users\yusuf\source\repos\İl Trafik Kodu\İl Trafik Kodu\bin\Debug\İl Trafik Kodu.exe
+C:\Users\yusuf\source\repos\İl Trafik Kodu\İl Trafik Kodu\bin\Debug\İl Trafik Kodu.pdb
+C:\Users\yusuf\source\repos\İl Trafik Kodu\İl Trafik Kodu\obj\Debug\İl Trafik Kodu.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\İl Trafik Kodu\İl Trafik Kodu\obj\Debug\İl Trafik Kodu.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\İl Trafik Kodu\İl Trafik Kodu\obj\Debug\İl Trafik Kodu.exe
+C:\Users\yusuf\source\repos\İl Trafik Kodu\İl Trafik Kodu\obj\Debug\İl Trafik Kodu.pdb

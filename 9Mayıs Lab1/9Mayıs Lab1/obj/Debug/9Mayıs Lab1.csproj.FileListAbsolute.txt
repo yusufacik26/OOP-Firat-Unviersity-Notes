@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\obj\Debug\9Mayıs Lab1.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\obj\Debug\_9Mayıs_Lab1.Form1.resources
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\obj\Debug\_9Mayıs_Lab1.Properties.Resources.resources
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\obj\Debug\9Mayıs Lab1.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\obj\Debug\9Mayıs Lab1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\bin\Debug\9Mayıs Lab1.exe.config
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\bin\Debug\9Mayıs Lab1.exe
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\bin\Debug\9Mayıs Lab1.pdb
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\obj\Debug\9Mayıs Lab1.exe
+C:\Users\yusuf\source\repos\9Mayıs Lab1\9Mayıs Lab1\obj\Debug\9Mayıs Lab1.pdb

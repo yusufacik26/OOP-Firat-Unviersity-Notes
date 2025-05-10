@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\source\\repos\\9may\u0131s Teori\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA6C67-770D-4835-84D0-CBAC252AFA68}|9may\u0131s Teori\\9may\u0131s Teori.csproj|c:\\users\\yusuf\\source\\repos\\9may\u0131s teori\\9may\u0131s teori\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEA6C67-770D-4835-84D0-CBAC252AFA68}|9may\u0131s Teori\\9may\u0131s Teori.csproj|solutionrelative:9may\u0131s teori\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA6C67-770D-4835-84D0-CBAC252AFA68}|9may\u0131s Teori\\9may\u0131s Teori.csproj|c:\\users\\yusuf\\source\\repos\\9may\u0131s teori\\9may\u0131s teori\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEA6C67-770D-4835-84D0-CBAC252AFA68}|9may\u0131s Teori\\9may\u0131s Teori.csproj|solutionrelative:9may\u0131s teori\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CEA6C67-770D-4835-84D0-CBAC252AFA68}|9may\u0131s Teori\\9may\u0131s Teori.csproj|c:\\users\\yusuf\\source\\repos\\9may\u0131s teori\\9may\u0131s teori\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CEA6C67-770D-4835-84D0-CBAC252AFA68}|9may\u0131s Teori\\9may\u0131s Teori.csproj|solutionrelative:9may\u0131s teori\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\9may\u0131s Teori\\9may\u0131s Teori\\Class1.cs",
+              "RelativeDocumentMoniker": "9may\u0131s Teori\\Class1.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\9may\u0131s Teori\\9may\u0131s Teori\\Class1.cs",
+              "RelativeToolTip": "9may\u0131s Teori\\Class1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA6wBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:25:47.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\9may\u0131s Teori\\9may\u0131s Teori\\Form1.cs",
+              "RelativeDocumentMoniker": "9may\u0131s Teori\\Form1.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\9may\u0131s Teori\\9may\u0131s Teori\\Form1.cs",
+              "RelativeToolTip": "9may\u0131s Teori\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:14:37.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\yusuf\\source\\repos\\9may\u0131s Teori\\9may\u0131s Teori\\Form1.cs",
+              "RelativeDocumentMoniker": "9may\u0131s Teori\\Form1.cs",
+              "ToolTip": "C:\\Users\\yusuf\\source\\repos\\9may\u0131s Teori\\9may\u0131s Teori\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "9may\u0131s Teori\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:14:32.783Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

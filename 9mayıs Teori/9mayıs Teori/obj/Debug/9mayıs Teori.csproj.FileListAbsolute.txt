@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\bin\Debug\9mayıs Teori.exe.config
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\bin\Debug\9mayıs Teori.exe
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\bin\Debug\9mayıs Teori.pdb
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\obj\Debug\9mayıs Teori.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\obj\Debug\_9mayıs_Teori.Form1.resources
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\obj\Debug\_9mayıs_Teori.Properties.Resources.resources
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\obj\Debug\9mayıs Teori.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\obj\Debug\9mayıs Teori.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\obj\Debug\9mayıs Teori.exe
+C:\Users\yusuf\source\repos\9mayıs Teori\9mayıs Teori\obj\Debug\9mayıs Teori.pdb

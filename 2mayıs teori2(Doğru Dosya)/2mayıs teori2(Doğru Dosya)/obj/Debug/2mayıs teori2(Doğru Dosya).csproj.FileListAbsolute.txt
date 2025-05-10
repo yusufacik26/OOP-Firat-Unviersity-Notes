@@ -1,0 +1,10 @@
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\bin\Debug\2mayıs teori2(Doğru Dosya).exe.config
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\bin\Debug\2mayıs teori2(Doğru Dosya).exe
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\bin\Debug\2mayıs teori2(Doğru Dosya).pdb
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\obj\Debug\2mayıs teori2(Doğru Dosya).csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\obj\Debug\_2mayıs_teori2_Doğru_Dosya_.Hayvan.resources
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\obj\Debug\_2mayıs_teori2_Doğru_Dosya_.Properties.Resources.resources
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\obj\Debug\2mayıs teori2(Doğru Dosya).csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\obj\Debug\2mayıs teori2(Doğru Dosya).csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\obj\Debug\2mayıs teori2(Doğru Dosya).exe
+C:\Users\yusuf\source\repos\2mayıs teori2(Doğru Dosya)\2mayıs teori2(Doğru Dosya)\obj\Debug\2mayıs teori2(Doğru Dosya).pdb

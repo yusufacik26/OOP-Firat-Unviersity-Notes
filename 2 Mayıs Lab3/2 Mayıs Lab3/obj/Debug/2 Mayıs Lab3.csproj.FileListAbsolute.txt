@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\2 Mayıs Lab3\2 Mayıs Lab3\bin\Debug\2 Mayıs Lab3.exe.config
+C:\Users\yusuf\source\repos\2 Mayıs Lab3\2 Mayıs Lab3\bin\Debug\2 Mayıs Lab3.exe
+C:\Users\yusuf\source\repos\2 Mayıs Lab3\2 Mayıs Lab3\bin\Debug\2 Mayıs Lab3.pdb
+C:\Users\yusuf\source\repos\2 Mayıs Lab3\2 Mayıs Lab3\obj\Debug\2 Mayıs Lab3.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\2 Mayıs Lab3\2 Mayıs Lab3\obj\Debug\2 Mayıs Lab3.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\2 Mayıs Lab3\2 Mayıs Lab3\obj\Debug\2 Mayıs Lab3.exe
+C:\Users\yusuf\source\repos\2 Mayıs Lab3\2 Mayıs Lab3\obj\Debug\2 Mayıs Lab3.pdb

@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\2 Mayıs teori\2 Mayıs teori\bin\Debug\2 Mayıs teori.exe.config
+C:\Users\yusuf\source\repos\2 Mayıs teori\2 Mayıs teori\bin\Debug\2 Mayıs teori.exe
+C:\Users\yusuf\source\repos\2 Mayıs teori\2 Mayıs teori\bin\Debug\2 Mayıs teori.pdb
+C:\Users\yusuf\source\repos\2 Mayıs teori\2 Mayıs teori\obj\Debug\2 Mayıs teori.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\2 Mayıs teori\2 Mayıs teori\obj\Debug\2 Mayıs teori.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\2 Mayıs teori\2 Mayıs teori\obj\Debug\2 Mayıs teori.exe
+C:\Users\yusuf\source\repos\2 Mayıs teori\2 Mayıs teori\obj\Debug\2 Mayıs teori.pdb
